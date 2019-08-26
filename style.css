@@ -25,7 +25,7 @@ li a {
 }
 
 li a:hover {
-	background-color: #111;
+	background-color: #180;
 }
 
 h2 a {
@@ -44,12 +44,13 @@ figcaption{
 
 header {
 	margin-left: 14px;
+  text-align: center;
 }
 
 article {
 	text-align: left;
 	margin: 15px;
-	max-width: 80%;
+	max-width: 100%;
 	font-size: 18px;
 	line-height: 32px;
 }
