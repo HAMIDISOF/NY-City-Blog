@@ -5,6 +5,7 @@ body {
 .warning {
     text-align: center;
     font-weight: bold;
+    border-color: #FF0e80;
 }
 
 nav ul {
@@ -73,7 +74,7 @@ aside {
 	padding: 15px;
 	max-width: 80%;
 	position: relative;
-	border-color: #FF0e80;
+	border-color: #010e80;
 	border-width: 5px;
     font-size: 18px;
 
